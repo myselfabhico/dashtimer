@@ -1,0 +1,6 @@
+{
+  "name": "Dashtimer - Aesthetic Focus & Pomodoro",
+  "description": "An ultra-refined, animated aesthetic Pomodoro timer with dynamic wallpapers, ambient audio soundscapes, tactile Web Audio feedback, and glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
